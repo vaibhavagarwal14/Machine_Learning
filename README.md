@@ -14,6 +14,9 @@ The Algorithms and concepts that have been implemented so far are :
 -> Hypothesis Testing - T Test, Chi Square Test  
 -> Multiclass Performance Metrics  
 -> One Hot Encoding  
+-> Logistic Regression  
+-> Decision Tree  
+-> K-Nearest Neighbour  
 
 Kindly ping me up for suggestions, feedback, comments and/or queries.  
 
